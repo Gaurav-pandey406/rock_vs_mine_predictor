@@ -32,7 +32,7 @@ The project uses a dataset with sonar signal readings to distinguish between roc
    - Plot confusion matrix for better understanding  
 
 ## Results
-The model achieved an accuracy of *[your accuracy here]%* on the test dataset, successfully classifying rocks and mines.
+The model achieved an accuracy of *[80]%* on the test dataset, successfully classifying rocks and mines.
 
 ## How to Run
 1. Install required libraries:  
